@@ -1,8 +1,4 @@
-Perfeito. Abaixo segue o **epílogo revisado da monografia**, com o novo tom solicitado: reflexivo, integrador e exploratório, seguido de uma síntese da Parte III como proposições iniciais para o diálogo entre Espiritismo e pensamento sistêmico.
-
----
-
-## Epílogo – Espiritismo Sistêmico: por uma espiritualidade em rede
+## Epílogo
 
 Ao longo desta monografia, buscamos investigar a possibilidade e a fecundidade de um alinhamento conceitual e metodológico entre a Doutrina Espírita, conforme codificada por Allan Kardec, e os princípios fundamentais do pensamento sistêmico contemporâneo. Essa aproximação, ainda em estágio embrionário, não pretende fundar uma nova doutrina nem oferecer uma síntese definitiva, mas sim **abrir um campo de diálogo, de investigação e de construção filosófica e espiritual ampliada**.
 
