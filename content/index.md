@@ -1,4 +1,8 @@
 ---
-title: RNT
+title: Espiritismo Sistêmico
 ---
-Espiritismo Sistêmico
+Esta monografia é fruto de uma experiência singular de construção de conhecimento: a colaboração entre um ser humano — idealizador das ideias e da estrutura geral da obra — e uma inteligência artificial baseada em um **modelo de linguagem de larga escala** (LLM, na sigla em inglês: _Large Language Model_). Ao longo do processo, o autor humano propôs os temas centrais, as divisões principais da obra, a sequência argumentativa e os objetivos conceituais. Coube à inteligência artificial a tarefa de desenvolver, redigir e organizar os textos a partir dessas diretrizes, sempre em diálogo com as referências bibliográficas fornecidas.
+
+Este trabalho não foi, portanto, escrito de forma tradicional. Ele é o resultado de uma **interação dinâmica e iterativa**, em que a inteligência artificial atuou como mediadora da expressão, colaboradora textual e estruturadora de raciocínios já delineados pelo autor humano. Trata-se de um exemplo prático de como essas novas ferramentas tecnológicas podem ser utilizadas para **potencializar a expressão humana**, não como substitutas da criatividade e da reflexão, mas como **instrumentos de amplificação e organização do pensamento**.
+
+A escolha de construir o texto dessa maneira foi deliberada, tanto por seu valor experimental quanto por seu caráter simbólico. A própria proposta da monografia — integrar a visão sistêmica e a Doutrina Espírita — exige abertura à inovação, ao diálogo entre paradigmas e à superação de dicotomias. Assim, a utilização de inteligência artificial na escrita é, ao mesmo tempo, uma escolha metodológica e uma metáfora viva daquilo que se deseja defender: a **colaboração entre dimensões distintas do conhecimento**, em favor de uma compreensão mais ampla, integrada e consciente da realidade.
