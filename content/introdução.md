@@ -1,8 +1,6 @@
 ---
 title: Introdução
 ---
-## Introdução
-
 Esta monografia propõe um exercício de reflexão interdisciplinar e filosófica: explorar a possível articulação entre dois campos do conhecimento que, à primeira vista, pertencem a esferas distintas — o **pensamento sistêmico**, desenvolvido principalmente nas últimas décadas a partir das ciências da complexidade, e a **Doutrina Espírita**, codificada por Allan Kardec no século XIX. O que se busca aqui não é fundir artificialmente conceitos, mas **identificar convergências estruturais, ampliar interpretações e propor um novo olhar sobre a espiritualidade à luz de paradigmas contemporâneos**.
 
 O pensamento sistêmico é uma abordagem recente no panorama intelectual ocidental. Ele surgiu como uma reação crítica ao modelo mecanicista e reducionista que predominou desde o século XVII, e que influenciou profundamente não apenas a ciência, mas também a cultura, a educação, a economia e a filosofia. Em contraste com essa visão fragmentada, o paradigma sistêmico concebe a realidade como **uma rede de processos interdependentes, dinâmicos e não-lineares**, nos quais os fenômenos só podem ser compreendidos em relação ao todo de que fazem parte.
